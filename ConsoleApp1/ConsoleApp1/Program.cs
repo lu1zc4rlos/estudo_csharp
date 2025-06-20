@@ -28,6 +28,7 @@
                     }
                 }
             }
+
             Console.WriteLine($"\nNegativos = {negativos}");
         }
     }
